@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Ma Kaixin/JC_StylizedNature_Lite/Scenes/Ma Kaixin.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
