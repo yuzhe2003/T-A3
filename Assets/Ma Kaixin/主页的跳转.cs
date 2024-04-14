@@ -17,6 +17,6 @@ public class 主页的跳转 : MonoBehaviour
 
     }
     public void jump(){
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(0);
     }
 } 
