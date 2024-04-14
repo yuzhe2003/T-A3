@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/JC_StylizedNature_Lite/Scenes/Li Chengxuan.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
